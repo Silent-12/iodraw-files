@@ -22,8 +22,8 @@
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-36" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="330" y="518" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="518" width="50" height="30" as="geometry" />
+        <mxCell id="jp2UGfDnAcdew7hgY5Ae-37" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="518" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
