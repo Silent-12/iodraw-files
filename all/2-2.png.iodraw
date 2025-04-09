@@ -16,7 +16,7 @@
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-29" value="扣减对应的库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-31" value="后端完成扣减" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jp2UGfDnAcdew7hgY5Ae-31" value="更新数据表库存数量" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
