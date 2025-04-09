@@ -13,7 +13,7 @@
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jp2UGfDnAcdew7hgY5Ae-29" target="jp2UGfDnAcdew7hgY5Ae-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-29" value="整合药品表、采购表的数据进行筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jp2UGfDnAcdew7hgY5Ae-29" value="提交出库数量，药品id" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-31" value="返回筛选结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
