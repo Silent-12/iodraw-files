@@ -26,9 +26,9 @@
           <mxGeometry x="280" y="530" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-40" value="库存颜色变为红色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-41" value="库存颜色变为红色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jp2UGfDnAcdew7hgY5Ae-41" value="正常显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
