@@ -16,7 +16,7 @@
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-18" value="向 data_statistics 表新增对应的记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-20" value="向 data_statistics 表新增对应的记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jp2UGfDnAcdew7hgY5Ae-20" value="将数据返回给前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
