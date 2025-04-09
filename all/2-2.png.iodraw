@@ -7,7 +7,7 @@
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jp2UGfDnAcdew7hgY5Ae-17" target="jp2UGfDnAcdew7hgY5Ae-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-17" value="出库、采购接口被调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jp2UGfDnAcdew7hgY5Ae-17" value="出库、采购接口调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="353" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-18" value="向 data_statistics 表新增对应的记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
