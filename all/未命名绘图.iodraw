@@ -25,6 +25,12 @@
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-6" value="整理数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jp2UGfDnAcdew7hgY5Ae-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="510" as="sourcePoint" />
+            <mxPoint x="290" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
