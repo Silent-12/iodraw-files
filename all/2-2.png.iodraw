@@ -1,23 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="lom3aIrJngA-ANj5Ic5A" name="第 1 页">
-    <mxGraphModel dx="493" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jp2UGfDnAcdew7hgY5Ae-23" target="jp2UGfDnAcdew7hgY5Ae-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-23" value="输入框change事件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jp2UGfDnAcdew7hgY5Ae-24" target="jp2UGfDnAcdew7hgY5Ae-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-24" value="触发接口请求" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="414" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-26" value="展示接口返回数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="jp2UGfDnAcdew7hgY5Ae-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
