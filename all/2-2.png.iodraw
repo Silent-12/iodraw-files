@@ -16,7 +16,7 @@
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-64" value="跳转到采购单详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-66" value="跳转到采购单详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jp2UGfDnAcdew7hgY5Ae-66" value="调用Windows打印" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
