@@ -4,23 +4,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jp2UGfDnAcdew7hgY5Ae-47" target="jp2UGfDnAcdew7hgY5Ae-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jp2UGfDnAcdew7hgY5Ae-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jp2UGfDnAcdew7hgY5Ae-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339.9565217391307" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-47" value="解析前端传入的参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="414" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jp2UGfDnAcdew7hgY5Ae-48" target="jp2UGfDnAcdew7hgY5Ae-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="jp2UGfDnAcdew7hgY5Ae-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="jp2UGfDnAcdew7hgY5Ae-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="570" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-52" value="校验批号是否已存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="510" width="180" height="60" as="geometry" />
+          <mxGeometry x="250" y="510" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
