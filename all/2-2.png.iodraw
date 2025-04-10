@@ -12,13 +12,8 @@
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-47" value="解析前端传入的参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="414" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="jp2UGfDnAcdew7hgY5Ae-50">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="570" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-52" value="校验批号是否已存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="510" width="180" height="60" as="geometry" />
