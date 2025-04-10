@@ -12,51 +12,6 @@
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-47" value="解析前端传入的参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="414" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-50" value="不允许入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-52" value="校验批号是否重复" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="510" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jp2UGfDnAcdew7hgY5Ae-53" target="jp2UGfDnAcdew7hgY5Ae-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-53" value="正常入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="550" as="sourcePoint" />
-            <mxPoint x="250" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jp2UGfDnAcdew7hgY5Ae-50">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="239.57" y="550" as="sourcePoint" />
-            <mxPoint x="239.57" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="550" as="sourcePoint" />
-            <mxPoint x="440" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jp2UGfDnAcdew7hgY5Ae-53">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="550" as="sourcePoint" />
-            <mxPoint x="449.57" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-60" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="510" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-61" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="510" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-62" value="添加入库日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="730" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
