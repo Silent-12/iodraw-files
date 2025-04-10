@@ -15,8 +15,8 @@
         <mxCell id="jp2UGfDnAcdew7hgY5Ae-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jp2UGfDnAcdew7hgY5Ae-52" value="校验批号是否已存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="510" width="180" height="60" as="geometry" />
+        <mxCell id="jp2UGfDnAcdew7hgY5Ae-52" value="校验批号是否重复" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
