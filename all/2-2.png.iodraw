@@ -10,8 +10,14 @@
         <mxCell id="Myr86c5HwJt-F4P1MhoQ-1" value="上传药品图片" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Myr86c5HwJt-F4P1MhoQ-2" value="选择批号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Myr86c5HwJt-F4P1MhoQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Myr86c5HwJt-F4P1MhoQ-2" target="Myr86c5HwJt-F4P1MhoQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Myr86c5HwJt-F4P1MhoQ-2" value="一键选择批号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Myr86c5HwJt-F4P1MhoQ-4" value="选择批号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
