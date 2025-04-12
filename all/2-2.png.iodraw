@@ -7,8 +7,8 @@
         <mxCell id="Myr86c5HwJt-F4P1MhoQ-1" value="解析前端参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gQSeiZ7QPDlfdVzYWMn2-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="150" height="80" as="geometry" />
+        <mxCell id="gQSeiZ7QPDlfdVzYWMn2-1" value="解析token，是否管理员发起" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
